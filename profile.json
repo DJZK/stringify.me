@@ -1,15 +1,14 @@
 {
 	"basics": {
-		"name": "Kishore",
-		"label": "Architect",
-		"picture": "profile.jpg",
-		"email": "prakis@gmail.com",
-		"phone": "(912) 98765-4321",
-		"website": "https://reactdude.com/",
-		"twitter": "https://twitter.com/prakis",
-		"facebook": "https://www.facebook.com/Stringify.me",
-		"github": "http://github.com/prakis",
-		"summary": "I work as a consultant, designing and developing web (<b>Java</b>, <b>ReactJS</b>, <b>NodeJS</b>) & desktop (<b>C#</b>, <b>JavaFX</b>) apps. I have over 16 years experience in software development and 2 years in Nanotechnology."
+		"name": "DJZK",
+		"label": "Developer, Sound Engineer, Music Producer, DJ",
+		"picture": "profile.png",
+		"email": "emperorxizzle99@gmail.com",
+		"phone": "+63935 427 5762",
+		"twitter": "https://twitter.com/djzk",
+		"facebook": "https://www.facebook.com/DJZKOfficial",
+		"github": "http://github.com/DJZK",
+		"summary": "Hello! My name is ZK and I am working as an Artificial Intelligence Trainer on Microsoft. I mostly am Developing using C#, VB.NET, and Java. I use FL Studio as my main tool on both Sound Engineering and Music Producing. I currently have Producer Edition License on FL Studio 21."
 	},
 	"theme": {
 		"url": "https://github.com/prakis/stringify.me-theme",
